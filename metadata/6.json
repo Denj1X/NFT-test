@@ -1,0 +1,34 @@
+{
+	"description": "Mordekaiser before pressing R", 
+	"external_url": "https://softbinator.com/softbinator-labs.com", 
+	"image": "ipfs://bafkreial4bnxqsr26zbbzd2qchy3y6schqoa6weptfwecdkezincav7fea", 
+	"name": "Going to Brazil",
+	"attributes": [ {
+		"trait_type": "Age", 
+		"value": ">1000"
+	  }, 
+	  {
+		"trait_type": "Ability Power", 
+		"value": "253"
+	  }, 
+	  {
+		"trait_type": "Attack Damage", 
+		"value": "105"
+	  },
+	  {
+		"trait_type": "Resist",
+		"value": "201"
+	  },
+	  {
+		"trait_type": "Passive",
+		"value": "Damage after 3 attacks"
+	  },
+	  {
+		"trait_type": "Main Weapon",
+		"value": "Mace"
+	  },
+	  {
+		"trait_type": "Meme guy",
+		"value": "Goes to Brazil"
+	  }]
+  }

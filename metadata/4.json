@@ -1,0 +1,30 @@
+{
+	"description": "Most popular manhwa MC these day", 
+	"external_url": "https://softbinator.com/softbinator-labs.com", 
+	"image": "ipfs://bafkreihxw55ctrzgdkl3x2fulxvmqat77smfwyvh3utw4japrxdnhd7hku", 
+	"name": "Dagger fellow",
+	"attributes": [ {
+		"trait_type": "Age", 
+		"value": "22"
+	  }, 
+	  {
+		"trait_type": "Ability Power", 
+		"value": "990"
+	  }, 
+	  {
+		"trait_type": "Attack Damage", 
+		"value": "115"
+	  },
+	  {
+		"trait_type": "Ability Steal",
+		"value": "0.5"
+	  },
+	  {
+		"trait_type": "Passive",
+		"value": "drip guy"
+	  },
+	  {
+		"trait_type": "Main Weapon",
+		"value": "Daggers"
+	  }]
+  }

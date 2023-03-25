@@ -1,0 +1,26 @@
+{
+	"description": "Gwen before doing her job", 
+	"external_url": "https://softbinator.com/softbinator-labs.com", 
+	"image": "ipfs://bafkreieflxcrtonmj53mq2dzuiy5uft2grsqpshi5abwi7vh26aid3m7xy", 
+	"name": "Normal Gwen",
+	"attributes": [ {
+		"trait_type": "Age", 
+		"value": "100"
+	  }, 
+	  {
+		"trait_type": "Ability Power", 
+		"value": "9"
+	  }, 
+	  {
+		"trait_type": "Attack Damage", 
+		"value": "75"
+	  },
+	  {
+		"trait_type": "Power Scale",
+		"value": "AP"
+	  },
+	  {
+		"passive": "Normal",
+		"value": "True Damage"
+	  }]
+  }

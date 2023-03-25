@@ -1,0 +1,34 @@
+{
+	"description": "Basically Viego before Viego", 
+	"external_url": "https://softbinator.com/softbinator-labs.com", 
+	"image": "ipfs://bafkreicrpn4xz2wcxebbw6c3xdfqo5nkzr7v2hf3cou2zxy23sxpnzix3q", 
+	"name": "Viego the Normal King",
+	"attributes": [ {
+		"trait_type": "Age", 
+		"value": "32"
+	  }, 
+	  {
+		"trait_type": "Ability Power", 
+		"value": "24"
+	  }, 
+	  {
+		"trait_type": "Attack Damage", 
+		"value": "200"
+	  },
+	  {
+		"trait_type": "Power Scale",
+		"value": "AD"
+	  },
+	  {
+		"trait_type": "Ability Steal",
+		"value": "0.7"
+	  },
+	  {
+		"trait_type": "Passive",
+		"value": "Bonus critical damage"
+	  },
+	  {
+		"trait_type": "Main Weapon",
+		"value": "Long sword"
+	  }]
+  }

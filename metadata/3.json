@@ -1,0 +1,34 @@
+{
+	"description": "Gwen after being fed in lane phase", 
+	"external_url": "https://softbinator.com/softbinator-labs.com", 
+	"image": "ipfs://bafkreif7izwlirltvqlte7w6qrypry2z6cuzrbhxw5aah42kcteczoh76m", 
+	"name": "Overpowered Gwen",
+	"attributes": [ {
+		"trait_type": "Age", 
+		"value": "100"
+	  }, 
+	  {
+		"trait_type": "Ability Power", 
+		"value": "553"
+	  }, 
+	  {
+		"trait_type": "Attack Damage", 
+		"value": "110"
+	  },
+	  {
+		"trait_type": "Power Scale",
+		"value": "AP"
+	  },
+	  {
+		"trait_type": "Passive",
+		"value": "Life Steal"
+	  },
+	  {
+		"trait_type": "Items",
+		"value": ["Nashor's tooth", "Riftmaker", "Rabadon's Deathcap"]
+	  },
+	  {
+		"trait_type": "Weapon",
+		"value": "Scissors"
+	  }]
+  }
