@@ -25,7 +25,7 @@ const config: HardhatUserConfig = {
     mumbai: getMumbaiConfig(),
   },
   etherscan: {
-    apiKey: process.env.ALCHEMY_API_KEY as string,
+    apiKey: process.env.POLYGONSCAN_API_KEY as string,
   },
 };
 
